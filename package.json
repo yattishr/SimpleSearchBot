@@ -1,0 +1,18 @@
+{
+  "name": "searchbot",
+  "version": "1.0.0",
+  "description": "A Simple Search Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Design Worx Factory",
+  "license": "ISC",
+  "dependencies": {
+    "checksum": "^0.1.1",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0",
+    "request-promise": "^4.2.2",
+    "twilio": "^3.17.3"
+  }
+}
